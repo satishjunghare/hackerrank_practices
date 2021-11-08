@@ -1,1 +1,1 @@
-# hackerrank_practices
+# Problem Solving
