@@ -6,6 +6,7 @@ Input will have possitive or negative values. You have to calculate sum of any c
 '''
 
 # Bruite force approach
+# Time complexity is O(n2)
 arr = [1, -3, 2, -5, 7]
 
 maxSum = arr[0]
